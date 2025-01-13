@@ -1,18 +1,18 @@
 button {
-    text-transform: uppercase;
-    padding: 1rem 1.5rem;
-    background-color: rgb(172, 116, 224);
-    border: none;
-    color: #fff;
-    cursor: pointer;
-    opacity: 0.9;
-    flex: 1;
+  text-transform: uppercase;
+  padding: 1rem 1.5rem;
+  background-color: #7eddac;
+  border-radius: 1rem;
+  color: #fff;
+  cursor: pointer;
+  opacity: 0.9;
+  flex: 1;
 }
 
 button:hover {
-    opacity: 1;
+  opacity: 1;
 }
 
 #clear-btn {
-    background-color: #7f847f;
+  background-color: #7eddac;
 }
