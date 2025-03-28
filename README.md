@@ -6,6 +6,9 @@
 <p/>
 
 ---
+
+![Image](https://github.com/user-attachments/assets/39ef0233-3034-41c2-8042-0aad4809f51c)
+
 ## Features  
 
 ✅ **Modern JavaScript (ES6+)** with a modular structure  
@@ -19,7 +22,6 @@
 ✅ **Package management** with package.json  
     
 ##
-![Image](https://github.com/user-attachments/assets/39ef0233-3034-41c2-8042-0aad4809f51c)
 
 
 ##
